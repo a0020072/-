@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>00047.jpg</filename>
+	<path>D:\研究生\高级计算机视觉\jpg\00047.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>545</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>51</ymin>
+			<xmax>394</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

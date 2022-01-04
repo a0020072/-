@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>00109.jpeg</filename>
+	<path>D:\研究生\高级计算机视觉\jpg\00109.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>35</ymin>
+			<xmax>357</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

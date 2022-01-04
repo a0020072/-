@@ -1,0 +1,1 @@
+python eval.py --logtostderr --eval_dir=evalpath/ --pipeline_config_path=training/ssd_mobilenet_v1_pets.config --checkpoint_dir=training/

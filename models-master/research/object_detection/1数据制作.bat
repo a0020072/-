@@ -1,0 +1,4 @@
+python xml_to_csv.py
+python train_generate_tfrecord.py
+python test_generate_tfrecord.py
+pause
